@@ -16,9 +16,9 @@
             {
                 Console.WriteLine("Enter a value " + (i + 1) + " : ");
                 value = Convert.ToDouble(Console.ReadLine());
-                while (value == 0 || value < 0)
+                while (value == 0 || value < 0 || value == 1)
                 {
-                    Console.WriteLine("The min value you can enter is 1 and The value you entered must be more than 0");
+                    Console.WriteLine("The min value you can enter is 2 and The value you entered must be more than 0");
                     Console.WriteLine("Enter a value " + (i + 1) + " : ");
                     value = Convert.ToDouble(Console.ReadLine());
                 }
