@@ -1,0 +1,15 @@
+C:\Users\ClassTime\Desktop\taskders\task2cspart2\task2fin\task2fin\bin\Debug\net6.0\task2fin.exe
+C:\Users\ClassTime\Desktop\taskders\task2cspart2\task2fin\task2fin\bin\Debug\net6.0\task2fin.deps.json
+C:\Users\ClassTime\Desktop\taskders\task2cspart2\task2fin\task2fin\bin\Debug\net6.0\task2fin.runtimeconfig.json
+C:\Users\ClassTime\Desktop\taskders\task2cspart2\task2fin\task2fin\bin\Debug\net6.0\task2fin.dll
+C:\Users\ClassTime\Desktop\taskders\task2cspart2\task2fin\task2fin\bin\Debug\net6.0\task2fin.pdb
+C:\Users\ClassTime\Desktop\taskders\task2cspart2\task2fin\task2fin\obj\Debug\net6.0\task2fin.csproj.AssemblyReference.cache
+C:\Users\ClassTime\Desktop\taskders\task2cspart2\task2fin\task2fin\obj\Debug\net6.0\task2fin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ClassTime\Desktop\taskders\task2cspart2\task2fin\task2fin\obj\Debug\net6.0\task2fin.AssemblyInfoInputs.cache
+C:\Users\ClassTime\Desktop\taskders\task2cspart2\task2fin\task2fin\obj\Debug\net6.0\task2fin.AssemblyInfo.cs
+C:\Users\ClassTime\Desktop\taskders\task2cspart2\task2fin\task2fin\obj\Debug\net6.0\task2fin.csproj.CoreCompileInputs.cache
+C:\Users\ClassTime\Desktop\taskders\task2cspart2\task2fin\task2fin\obj\Debug\net6.0\task2fin.dll
+C:\Users\ClassTime\Desktop\taskders\task2cspart2\task2fin\task2fin\obj\Debug\net6.0\refint\task2fin.dll
+C:\Users\ClassTime\Desktop\taskders\task2cspart2\task2fin\task2fin\obj\Debug\net6.0\task2fin.pdb
+C:\Users\ClassTime\Desktop\taskders\task2cspart2\task2fin\task2fin\obj\Debug\net6.0\task2fin.genruntimeconfig.cache
+C:\Users\ClassTime\Desktop\taskders\task2cspart2\task2fin\task2fin\obj\Debug\net6.0\ref\task2fin.dll
